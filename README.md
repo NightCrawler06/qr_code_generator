@@ -36,7 +36,3 @@ To get started with the QR Code Generator:
 
 - Python 3.x
 - `pyqrcode` library (install via `pip install pyqrcode`)
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
